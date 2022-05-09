@@ -1,0 +1,33 @@
+#+TITLE: Hirotaka Niitsuma
+#+AUTHOR: Hirotaka Niitsuma
+#+EMAIL: hirotaka.niitsuma@gmail.com
+#+OPTIONS: toc:nil 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
+
+#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="http://www.pirilampo.org/styles/readtheorg/js/readtheorg.js"></script>
+
+[[./j/index.html][Japanese]]
+
+- Hirotaka  Niitsuma
+ - Professor
+ - Osaka Metropolitan University College of Technology (O.M.U.C.T.)
+
+* My Code
+- [[https://github.com/niitsuma/hycl ][hyclb]]
+- [[https://github.com/niitsuma/Racket-miniKanren/tree/recursive][recursive miniKanren]]
+- [[https://libraries.io/emacs/edit-indirect-region-latex][edit-indirect-region-latex]]
+- [[https://github.com/niitsuma/word2vec-keras-in-gensim][word2veckeras]]
+
+* My Paper
+- [[https://arxiv.org/abs/1605.05087 ][Word2Vec is a special case of Kernel Correspondence Analysis ]]
+- [[https://arxiv.org/abs/1403.3964][Image processing using miniKanren]]
+- [[https://arxiv.org/abs/0711.4452 ][Covariance and PCA for Categorical Variables]]
+
+* Link
+- [[https://github.com/niitsuma][my github]]
+- [[http://dblp.uni-trier.de/pers/hd/n/Niitsuma:Hirotaka][my dblp]]
+- [[https://www.researchgate.net/profile/Hirotaka_Niitsuma][my researchgate]]

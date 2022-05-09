@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
 <head>
-<!-- 2022-05-09 月 10:03 -->
+<!-- 2022-05-09 月 10:02 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Hirotaka Niitsuma</title>
+<title>新妻弘崇</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Hirotaka Niitsuma" />
 <style type="text/css">
@@ -235,21 +235,22 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Hirotaka Niitsuma</h1>
+<h1 class="title">新妻弘崇</h1>
 <p>
-<a href="./j/index.html">Japanese</a>
+<a href="../">English</a>
 </p>
 
 <ul class="org-ul">
-<li>Hirotaka  Niitsuma
+<li>新妻弘崇
 <ul class="org-ul">
-<li>Professor</li>
-<li>Osaka Metropolitan University College of Technology (O.M.U.C.T.)</li>
+<li>教授</li>
+<li>〒572-8572 大阪府寝屋川市幸町26-12</li>
+<li>大阪公立大学高専</li>
 </ul></li>
 </ul>
 
-<div id="outline-container-orgf80b1b6" class="outline-2">
-<h2 id="orgf80b1b6"><span class="section-number-2">1</span> My Code</h2>
+<div id="outline-container-org6cda587" class="outline-2">
+<h2 id="org6cda587"><span class="section-number-2">1</span> 公開ソフトウェア</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
 <li><a href="https://github.com/niitsuma/hycl%20">hyclb</a></li>
@@ -258,10 +259,19 @@ for the JavaScript code in this tag.
 <li><a href="https://github.com/niitsuma/word2vec-keras-in-gensim">word2veckeras</a></li>
 </ul>
 </div>
+
+<div id="outline-container-org1695e06" class="outline-3">
+<h3 id="org1695e06"><span class="section-number-3">1.1</span> DEMO</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li><a href="../tourrecommendation/tourrecommendations.html">岡山の観光ルート推薦</a></li>
+</ul>
+</div>
+</div>
 </div>
 
-<div id="outline-container-org35da530" class="outline-2">
-<h2 id="org35da530"><span class="section-number-2">2</span> My Paper</h2>
+<div id="outline-container-orgea933ba" class="outline-2">
+<h2 id="orgea933ba"><span class="section-number-2">2</span> 論文</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li><a href="https://arxiv.org/abs/1605.05087%20">Word2Vec is a special case of Kernel Correspondence Analysis </a></li>
@@ -270,21 +280,10 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-
-<div id="outline-container-org4baacfb" class="outline-2">
-<h2 id="org4baacfb"><span class="section-number-2">3</span> Link</h2>
-<div class="outline-text-2" id="text-3">
-<ul class="org-ul">
-<li><a href="https://github.com/niitsuma">my github</a></li>
-<li><a href="http://dblp.uni-trier.de/pers/hd/n/Niitsuma:Hirotaka">my dblp</a></li>
-<li><a href="https://www.researchgate.net/profile/Hirotaka_Niitsuma">my researchgate</a></li>
-</ul>
-</div>
-</div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Hirotaka Niitsuma</p>
-<p class="date">Created: 2022-05-09 月 10:03</p>
+<p class="author">&#33879;&#32773;: Hirotaka Niitsuma</p>
+<p class="date">Created: 2022-05-09 月 10:02</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
