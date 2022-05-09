@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
 <head>
-<!-- 2022-05-09 月 10:02 -->
+<!-- 2022-05-09 月 10:12 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>新妻弘崇</title>
@@ -180,12 +180,6 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://www.pirilampo.org/styles/lib/js/jquery.stickytableheaders.js"></script>
-<script type="text/javascript" src="http://www.pirilampo.org/styles/readtheorg/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -245,23 +239,23 @@ for the JavaScript code in this tag.
 <ul class="org-ul">
 <li>教授</li>
 <li>〒572-8572 大阪府寝屋川市幸町26-12</li>
-<li>大阪公立大学高専</li>
+<li><a href="https://www2.ct.osakafu-u.ac.jp/">大阪公立大学高専</a></li>
 </ul></li>
 </ul>
 
-<div id="outline-container-org6cda587" class="outline-2">
-<h2 id="org6cda587"><span class="section-number-2">1</span> 公開ソフトウェア</h2>
+<div id="outline-container-org21330f4" class="outline-2">
+<h2 id="org21330f4"><span class="section-number-2">1</span> 公開ソフトウェア</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
-<li><a href="https://github.com/niitsuma/hycl%20">hyclb</a></li>
+<li><a href="https://github.com/niitsuma/hycl">hyclb</a></li>
 <li><a href="https://github.com/niitsuma/Racket-miniKanren/tree/recursive">recursive miniKanren</a></li>
 <li><a href="https://libraries.io/emacs/edit-indirect-region-latex">edit-indirect-region-latex</a></li>
 <li><a href="https://github.com/niitsuma/word2vec-keras-in-gensim">word2veckeras</a></li>
 </ul>
 </div>
 
-<div id="outline-container-org1695e06" class="outline-3">
-<h3 id="org1695e06"><span class="section-number-3">1.1</span> DEMO</h3>
+<div id="outline-container-org283217d" class="outline-3">
+<h3 id="org283217d"><span class="section-number-3">1.1</span> DEMO</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li><a href="../tourrecommendation/tourrecommendations.html">岡山の観光ルート推薦</a></li>
@@ -270,8 +264,8 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orgea933ba" class="outline-2">
-<h2 id="orgea933ba"><span class="section-number-2">2</span> 論文</h2>
+<div id="outline-container-orgd1002ed" class="outline-2">
+<h2 id="orgd1002ed"><span class="section-number-2">2</span> 論文</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li><a href="https://arxiv.org/abs/1605.05087%20">Word2Vec is a special case of Kernel Correspondence Analysis </a></li>
@@ -283,7 +277,7 @@ for the JavaScript code in this tag.
 </div>
 <div id="postamble" class="status">
 <p class="author">&#33879;&#32773;: Hirotaka Niitsuma</p>
-<p class="date">Created: 2022-05-09 月 10:02</p>
+<p class="date">Created: 2022-05-09 月 10:12</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
